@@ -1,0 +1,489 @@
+{
+  "_leia": "Personalização deste negócio. É o único ficheiro editável à mão.",
+  "modo": "cliente",
+  "teste": false,
+  "variante": "b",
+  "tema": {
+    "slug": "12-oficina-auto",
+    "colors": {
+      "rgb": "227,6,19",
+      "accent": "#2A2D31",
+      "primary": "#E30613",
+      "accentDark": "#111214",
+      "primaryDark": "#B00510",
+      "primaryLight": "#FF4D57"
+    },
+    "logoIcon": "Car",
+    "heroParticleIcon": "Cog",
+    "faviconPaths": "<path d=\"M5 14 6.5 8.5A2 2 0 0 1 8.4 7h7.2a2 2 0 0 1 1.9 1.5L19 14M5 14h14v4H5zM7 18v2M17 18v2\"/>",
+    "nav": [
+      {
+        "label": "Início",
+        "href": "#inicio"
+      },
+      {
+        "label": "Serviços",
+        "href": "#servicos"
+      },
+      {
+        "label": "Método",
+        "href": "#metodo"
+      },
+      {
+        "label": "Processo",
+        "href": "#processo"
+      },
+      {
+        "label": "Contactos",
+        "href": "#contactos"
+      }
+    ],
+    "services": [
+      {
+        "icon": "Cog",
+        "text": "Bombas em linha, rotativas e de common rail. Abrimos, limpamos, trocamos o que está gasto e afinamos em banco de ensaio.",
+        "title": "Bombas injetoras"
+      },
+      {
+        "icon": "Droplet",
+        "text": "Reparação de injetores mecânicos e common rail, com débito e pulverização medidos em banco antes e depois.",
+        "title": "Injetores"
+      },
+      {
+        "icon": "Wind",
+        "text": "Folgas, fugas de óleo, assobio e falta de pressão. Cartuchos, geometria variável e afinação do atuador.",
+        "title": "Turbos"
+      },
+      {
+        "icon": "Gauge",
+        "text": "Cada bomba e cada injetor é testado em banco de ensaio. Sai da oficina com os valores confirmados.",
+        "title": "Banco de ensaio"
+      },
+      {
+        "icon": "Search",
+        "text": "Equipamento de diagnóstico Bosch e Autel, para confirmar onde está a avaria antes de reparar.",
+        "title": "Diagnóstico"
+      },
+      {
+        "icon": "Truck",
+        "text": "Recebemos a bomba, o injetor ou o turbo já desmontado. Particulares e oficinas.",
+        "title": "Traga só a peça"
+      }
+    ],
+    "hero": {
+      "alt": "Bomba injetora em linha aberta na bancada da oficina",
+      "sub": "Reparamos a peça na bancada e testamo-la em banco de ensaio antes de a entregar. Orçamento antes de avançar.",
+      "image": "/fotos/bcdiesel/bomba-em-linha-na-bancada.webp",
+      "line1": "Bombas injetoras, injetores",
+      "line2": "e turbos.",
+      "eyebrow": "Especialistas em injeção diesel em Lousada"
+    },
+    "copy": {
+      "steps": {
+        "titleA": "Da bancada ao banco de ensaio,",
+        "titleB": "peça a peça.",
+        "eyebrow": "O processo"
+      },
+      "navCta": "Pedir orçamento",
+      "contact": {
+        "sub": "Indique a peça, a referência se a tiver, e a viatura de onde saiu. Respondemos com o que é preciso e o orçamento.",
+        "titleA": "Tem uma bomba, um injetor ou um turbo com avaria?",
+        "titleB": "Diga-nos qual é.",
+        "fieldLabel": "Peça e avaria",
+        "fieldPlaceholder": "Ex.: bomba injetora rotativa de um Ford Transit 2.5, perde gasóleo e o carro vai abaixo."
+      },
+      "gallery": {
+        "titleA": "O trabalho",
+        "titleB": "na bancada.",
+        "eyebrow": "Oficina"
+      },
+      "heroCta": "Pedir orçamento",
+      "reviews": {
+        "sub": "Avaliações de clientes com a bomba, o injetor ou o turbo reparado.",
+        "titleA": "O que dizem",
+        "titleB": "os clientes"
+      },
+      "tagline": "Bombas injetoras, injetores e turbos, reparados e testados em banco.",
+      "features": {
+        "titleA": "Trocar a peça à sorte",
+        "titleB": "sai sempre mais caro.",
+        "eyebrow": "Como trabalhamos"
+      },
+      "services": {
+        "titleA": "Injeção e turbo diesel,",
+        "titleB": "na mesma bancada.",
+        "eyebrow": "Serviços"
+      },
+      "footerStatus": "A aceitar peças"
+    },
+    "features": [
+      {
+        "body": "Injetores com fugas, turbos a perder pressão e bombas injetoras que deixam o motor sem força. Avarias que exigem método, não sorte.",
+        "kind": "shuffler",
+        "title": "O que entra mais na oficina",
+        "bullets": [
+          "Bombas, injetores e turbos",
+          "Testado em banco de ensaio",
+          "Orçamento antes de avançar"
+        ],
+        "eyebrow": "Entradas"
+      },
+      {
+        "body": "Medimos o débito e a pressão antes de abrir a peça e voltamos a medir depois da reparação. Só sai quando os valores estão certos.",
+        "kind": "signature",
+        "title": "O banco de ensaio não tem opinião",
+        "bullets": [
+          "Medição antes de reparar",
+          "Medição depois de reparar",
+          "Valores explicados ao cliente"
+        ],
+        "eyebrow": "Ensaio"
+      },
+      {
+        "body": "Diga-nos quando traz a peça e damos uma previsão de entrega. Se aparecer outra coisa durante a reparação, ligamos antes de continuar.",
+        "kind": "scheduler",
+        "title": "Peça entregue, prazo dado",
+        "bullets": [
+          "Previsão de entrega",
+          "Aviso antes de qualquer extra",
+          "Peça antiga explicada"
+        ],
+        "eyebrow": "Marcações"
+      }
+    ],
+    "shuffler": {
+      "items": [
+        {
+          "tag": "Injetor",
+          "meta": "Comum",
+          "label": "Fumo preto e falta de força"
+        },
+        {
+          "tag": "Turbo",
+          "meta": "Comum",
+          "label": "Assobio e perda de pressão"
+        },
+        {
+          "tag": "Bomba",
+          "meta": "Comum",
+          "label": "Perde gasóleo ou não dá pressão"
+        }
+      ],
+      "dotColor": "#E30613"
+    },
+    "scheduler": {
+      "week": "Semana 14 · Abril",
+      "badge": "Entrega",
+      "choose": "Escolher um dia",
+      "confirmed": "Entrega confirmada"
+    },
+    "signature": {
+      "bg": "linear-gradient(180deg, #F4F4F5 0%, #E6E6E8 65%, #D4D4D8 100%)",
+      "line": "#B00510",
+      "header": {
+        "pad": true,
+        "icon": "Gauge",
+        "unit": "testes",
+        "label": "Ensaio a decorrer",
+        "value": 5,
+        "increment": true
+      },
+      "source": "beam",
+      "surface": "grid",
+      "particle": {
+        "mode": "stroke",
+        "paths": [
+          "M12 7.6 a4.4 4.4 0 1 0 0.01 0",
+          "M12 1.6 v3 M12 19.4 v3 M1.6 12 h3 M19.4 12 h3 M4.5 4.5 l2.1 2.1 M17.4 17.4 l2.1 2.1 M19.5 4.5 l-2.1 2.1 M6.6 17.4 l-2.1 2.1"
+        ],
+        "rotate": 360,
+        "viewBox": "0 0 24 24",
+        "gradient": [
+          "#FFD1D4",
+          "#E30613",
+          "#B00510"
+        ],
+        "strokeWidth": 1.8
+      },
+      "statuses": [
+        {
+          "text": "Referência da peça identificada",
+          "tone": "primary",
+          "label": "Entrada"
+        },
+        {
+          "text": "Débito fora dos valores",
+          "tone": "accent",
+          "label": "Ensaio"
+        },
+        {
+          "text": "Peças gastas substituídas",
+          "tone": "primary",
+          "label": "Reparação"
+        },
+        {
+          "text": "Valores confirmados em banco",
+          "tone": "emerald",
+          "label": "Pronto"
+        }
+      ]
+    },
+    "pillars": [
+      {
+        "end": 17,
+        "text": "Clientes em Lousada que já avaliaram o trabalho da casa no Google.",
+        "label": "Avaliações Google"
+      },
+      {
+        "end": 4.9,
+        "text": "Média no Google, construída carro a carro.",
+        "label": "Classificação média",
+        "decimals": 1
+      },
+      {
+        "end": 2,
+        "text": "Um para bombas injetoras, outro para injetores common rail.",
+        "label": "Bancos de ensaio"
+      }
+    ],
+    "steps": [
+      {
+        "n": "01",
+        "alt": "Bomba injetora em linha azul na bancada",
+        "img": "/fotos/bcdiesel/bomba-em-linha-azul.webp",
+        "text": "Identificamos a peça pela referência da chapa e ouvimos o que o carro fazia. Depois medimos em banco, para ver onde está a falha.",
+        "title": "A peça chega à bancada",
+        "bullets": [
+          "Referência identificada",
+          "Sintomas registados",
+          "Ensaio antes de abrir"
+        ],
+        "eyebrow": "Entrada"
+      },
+      {
+        "n": "02",
+        "alt": "Bomba injetora aberta durante a reparação",
+        "img": "/fotos/bcdiesel/bomba-aberta-reparacao.webp",
+        "text": "Abrimos a peça, vemos o que está gasto e damos o valor antes de avançar. Se aparecer outra coisa, ligamos antes de continuar.",
+        "title": "Orçamento primeiro, ferramenta depois",
+        "bullets": [
+          "Orçamento aprovado por si",
+          "Peças com origem indicada",
+          "Sem trabalhos não autorizados"
+        ],
+        "eyebrow": "Reparação"
+      },
+      {
+        "n": "03",
+        "alt": "Banco de ensaio de injetores common rail",
+        "img": "/fotos/bcdiesel/banco-de-ensaio-injetores.webp",
+        "text": "Depois da reparação, a peça volta ao banco de ensaio. Só a entregamos com os valores certos, e explicamos o que foi feito.",
+        "title": "Testada em banco antes de sair",
+        "bullets": [
+          "Ensaio depois de reparar",
+          "Valores confirmados",
+          "Fatura com trabalho discriminado"
+        ],
+        "eyebrow": "Entrega"
+      }
+    ],
+    "trust": [
+      {
+        "href": "https://www.google.com/maps/search/?api=1&query=Bcdiesel&query_place_id=ChIJKcpeAGmSJA0Rm61gSkWj9o8",
+        "icon": "Star",
+        "text": "17 avaliações de clientes em Lousada.",
+        "title": "4,9 ★ no Google"
+      },
+      {
+        "icon": "Gauge",
+        "text": "Bombas e injetores saem com os valores medidos.",
+        "title": "Testado em banco de ensaio"
+      },
+      {
+        "icon": "ShieldCheck",
+        "text": "Nenhum trabalho avança sem a sua autorização.",
+        "title": "Orçamento antes de mexer"
+      }
+    ],
+    "logo": "/logos/bcdiesel.webp",
+    "galeria": [
+      {
+        "alt": "Vídeo: bomba injetora em ensaio no banco",
+        "img": "/fotos/bcdiesel/video-banco-de-ensaio-de-bombas.webp",
+        "video": "/fotos/bcdiesel/video-banco-de-ensaio-de-bombas.mp4"
+      },
+      {
+        "alt": "Banco de ensaio de bombas injetoras",
+        "img": "/fotos/bcdiesel/banco-de-ensaio-bombas.webp"
+      },
+      {
+        "alt": "Bomba injetora rotativa em reparação",
+        "img": "/fotos/bcdiesel/bomba-rotativa-desmontada.webp"
+      },
+      {
+        "alt": "Vídeo: teste de injetores em banco",
+        "img": "/fotos/bcdiesel/video-teste-de-injetores.webp",
+        "video": "/fotos/bcdiesel/video-teste-de-injetores.mp4"
+      },
+      {
+        "alt": "Cartucho de turbo novo",
+        "img": "/fotos/bcdiesel/cartucho-de-turbo-novo.webp"
+      },
+      {
+        "alt": "Turbo de geometria variável",
+        "img": "/fotos/bcdiesel/turbo-geometria-variavel.webp"
+      },
+      {
+        "alt": "Vídeo: montagem da cabeça de uma bomba rotativa",
+        "img": "/fotos/bcdiesel/video-cabeca-de-bomba-rotativa.webp",
+        "video": "/fotos/bcdiesel/video-cabeca-de-bomba-rotativa.mp4"
+      },
+      {
+        "alt": "Bomba injetora reparada na bancada",
+        "img": "/fotos/bcdiesel/bomba-injetora-reparada.webp"
+      },
+      {
+        "alt": "Provetas de medição do banco de ensaio",
+        "img": "/fotos/bcdiesel/provetas-de-ensaio.webp"
+      },
+      {
+        "alt": "Vídeo: bomba a trabalhar no banco de ensaio",
+        "img": "/fotos/bcdiesel/video-bomba-a-trabalhar-no-banco.webp",
+        "video": "/fotos/bcdiesel/video-bomba-a-trabalhar-no-banco.mp4"
+      },
+      {
+        "alt": "Cartuchos de turbo antes e depois",
+        "img": "/fotos/bcdiesel/cartuchos-de-turbo.webp"
+      },
+      {
+        "alt": "Turbo com coletor na bancada",
+        "img": "/fotos/bcdiesel/turbo-com-coletor.webp"
+      },
+      {
+        "alt": "Vídeo: afinação do atuador de um turbo",
+        "img": "/fotos/bcdiesel/video-afinacao-de-turbo.webp",
+        "video": "/fotos/bcdiesel/video-afinacao-de-turbo.mp4"
+      },
+      {
+        "alt": "Bomba injetora rotativa",
+        "img": "/fotos/bcdiesel/bomba-rotativa.webp"
+      },
+      {
+        "alt": "Bomba injetora na bancada",
+        "img": "/fotos/bcdiesel/bomba-injetora-na-bancada.webp"
+      },
+      {
+        "alt": "Diagnóstico com equipamento Bosch",
+        "img": "/fotos/bcdiesel/diagnostico-bosch.webp"
+      }
+    ],
+    "logoAlto": true,
+    "semMarcasDemo": true
+  },
+  "lead": {
+    "nicho": "12-oficina-auto",
+    "nome_negocio": "Bcdiesel",
+    "telefone": "+351919505301",
+    "tipo_telefone": "telemovel",
+    "concelho": "Lousada",
+    "freguesia": null,
+    "reviews": 17,
+    "nota": 4.9,
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Bcdiesel&query_place_id=ChIJKcpeAGmSJA0Rm61gSkWj9o8",
+    "segmento": "B_sem_nada",
+    "oficio": "oficina automóvel",
+    "idioma": "pt",
+    "pais": "pt"
+  },
+  "enrich": {
+    "horario": {
+      "dom": "Encerrado",
+      "qua": "09:00 – 18:30",
+      "qui": "09:00 – 18:30",
+      "sab": "Encerrado",
+      "seg": "09:00 – 18:30",
+      "sex": "09:00 – 18:30",
+      "ter": "09:00 – 18:30"
+    },
+    "email": "bcdiesel.bombasinjetoras@gmail.com",
+    "reviews": [
+      {
+        "date": "2024-09-10",
+        "text": "Bom atendimento\nTrabalho excelente   pessoas sérias",
+        "author": "Idilio M.",
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocKw5dc2grv4lNYHP82syl6xmulyn6YJv2GpHW0SfYwPwDOK5w=s1920-c-rp-mo-ba12-br100",
+        "rating": 5
+      },
+      {
+        "date": "2023-11-13",
+        "text": "Excelente profissional. Super acessível e disposto a ajudar na resolução dos problemas. Preços bastante em conta",
+        "author": "Hugo M.",
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJzeWX-fThBcCXzXTYfT4mxI4LYIDhyiyL0vf7ZIGdp5Ydbjw=s1920-c-rp-mo-ba12-br100",
+        "rating": 5
+      },
+      {
+        "date": "2023-02-13",
+        "text": "Serviço rápido, bom preço e bom atendimento",
+        "author": "Ze P.",
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocLInyWW35UPgCTT77_nSTTW7K42co1cV5oSvFLvmF8f7lAHzA=s1920-c-rp-mo-br100",
+        "rating": 5
+      },
+      {
+        "date": "2021-02-02",
+        "text": "Profissional e competente. Preços muito em conta, rapido no serviço.  Muito recomendável.",
+        "author": "Avelino D.",
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjXzrSW0iPTH4mPBzhmRgWdDRBl8dg2ocyMmVSRyBb246Drg_T3g=s1920-c-rp-mo-ba12-br100",
+        "rating": 5
+      },
+      {
+        "date": "2020-10-01",
+        "text": "Bom atendimento\nBons profissionais..\nBons preços..\nE de recomendar...",
+        "author": "Paulo S.",
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocLGnhRcMP0oXTTPEOsA84kIBUc4hjNKrnhMVBqIMRyTxel2Fw=s1920-c-rp-mo-ba12-br100",
+        "rating": 5
+      },
+      {
+        "date": "2020-08-20",
+        "text": "Excelente",
+        "author": "Rui A.",
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjU5Rb5-1Eyph3Ap6OuhFfUK6ibI1nHHU58vPggrJcnZveNldUC0=s1920-c-rp-mo-br100",
+        "rating": 5
+      },
+      {
+        "date": "2019-08-21",
+        "text": "Uma excelente casa de reparação mecânica automóvel 👌",
+        "author": "Tó M.",
+        "avatar": "https://lh3.googleusercontent.com/a-/ALV-UjUH_CuGkgwXHAmFWNTW8SqNWwE1-2MueWLKTKZuAMHw1Bmv2K3g8A=s1920-c-rp-mo-ba12-br100",
+        "rating": 5
+      }
+    ]
+  },
+  "cliente": {
+    "dominio": "https://bcdiesel.pt",
+    "nomeCurto": "BCDiesel",
+    "email": "bcdiesel.bombasinjetoras@gmail.com",
+    "areasServidas": [
+      "Lousada"
+    ],
+    "faq": [],
+    "fundadoEm": null
+  },
+  "local": {
+    "morada": "R. Primeiro de Maio 89",
+    "codigoPostal": null,
+    "localidade": "Lousada",
+    "lat": 41.250153,
+    "lng": -8.290041,
+    "website": null,
+    "sociais": {
+      "facebook": "https://www.facebook.com/p/BCDiesel-Repara%C3%A7%C3%A3o-Bombas-Injetoras-Turbos-100057578824076/"
+    }
+  },
+  "servico": {
+    "api": "https://sites-ia.vercel.app",
+    "site": "/12-oficina-auto/bcdiesel",
+    "rastrear": true
+  },
+  "zonas": [],
+  "fotosPropostas": []
+}
